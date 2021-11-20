@@ -1,7 +1,7 @@
 ### Hi there , I'm Emrah 👋
 
 
-- 🔭 I’m currently working on Java,Python,C#,Javascript,PHP
+- 🔭 I’m currently working on Java,Python,C#,JavaScript,PHP
 - 🌱 I’m currently learning Node.js,React
 - 👯 I’m looking to collaborate on Java,C#
 - 🤔 I’m looking for help with Node.js
