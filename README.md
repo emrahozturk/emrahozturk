@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Java,Python,C#,JavaScript,PHP
-- 🌱 I’m currently learning Node.js,React
+- 🌱 I’m currently learning -
 - 👯 I’m looking to collaborate on Java,C#
 - 🤔 I’m looking for help with Node.js
 - 💬 Ask me about Java,C#
